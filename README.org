@@ -1,6 +1,6 @@
 * I'm Andresa, nice to meet you! 👋
 
-#+START_QUOTE
+#+BEGIN_QUOTE
  "Those who cannot remember the past are condemned to repeat it.”
  ~ George Santayana
 #+END_QUOTE
