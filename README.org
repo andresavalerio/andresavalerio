@@ -5,7 +5,7 @@
  ~ Proverbs 16:3
 #+END_QUOTE
 
-- 👩🏻‍💻 Back end developer @pinio;
+- 👩🏻‍💻 Back end developer at [[https://pinion.app/][PiniOn]];
 - 💻 Bachelor in Science and Technology by the Federal University of São Paulo;
 - 🤰🏻 Mother of a little boy;
 - 🧠 Passionate about learning multiple things about culture, art, science, philosophy, technology and the universe itself;
