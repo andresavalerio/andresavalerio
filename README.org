@@ -1,11 +1,13 @@
 * I'm Andresa, nice to meet you! 👋
 
 #+BEGIN_QUOTE
- "Those who cannot remember the past are condemned to repeat it.”
- ~ George Santayana
+ "Lay open thy works to the Lord: and thy thoughts shall be directed.”
+ ~ Proverbs 16:3
 #+END_QUOTE
 
-- 💻 Computer Science student at the Federal University of São Paulo;
+- 👩🏻‍💻 Back end developer @pinio;
+- 💻 Bachelor in Science and Technology by the Federal University of São Paulo;
+- 🤰🏻 Mother of a little boy;
 - 🧠 Passionate about learning multiple things about culture, art, science, philosophy, technology and the universe itself;
 - ✨ Interested in Open Source and Free Software, moving forward to work with it in the future;
 - 🎯 My goal is to [[https://www.youtube.com/watch?v=8pTEmbeENF4][protect the human knowledge]] about CS and technology.
